@@ -11,7 +11,6 @@ public class Bankspringbootproject12Application {
 	
 		public static void main(String[] args) {
 		SpringApplication.run(Bankspringbootproject12Application.class, args);
-		System.out.println("Hi");
 	
 		//@EventListener(ApplicationReadyEvent.class)
 		//public void SendMail() {
